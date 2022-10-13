@@ -1,6 +1,6 @@
 This repo contains code to build an over-engineered gingerbread house using sensors connected to micro:bit, arduino and raspberry pi.
 
-#Available sensors & gadgets
+# Available sensors & gadgets
 * Moisture sensor
 * Temperature + humidity sensor
 * Proximity sensor
@@ -23,7 +23,7 @@ This repo contains code to build an over-engineered gingerbread house using sens
 * Large Push button
 * Small button
 
-#Over-engineering ideas
+# Over-engineering ideas
 * Solar panel on the roof
 * Motion sensor around the fireplace
   * Should turn on christmas tree lights
